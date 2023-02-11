@@ -6,8 +6,8 @@ we design a new architecture called TESR (Two-stage approach for Enhancement and
 # Remote Sensing Dataset
 link of [UC Merced Land Use Dataset](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
 # TESR Algorithm
-<img src="https://github.com/AnasHXH/TESR-Two-stage-approach-for-Enhancement-and-Super-Resolution-of-Remote-Sensing-Images/blob/main/Algorithm.png" width="600" height="400"/>
+<img src="https://github.com/AnasHXH/TESR-Two-stage-approach-for-Enhancement-and-Super-Resolution-of-Remote-Sensing-Images/blob/main/Algorithm.png" width="400" height="300"/>
 # Result
-<img src="https://github.com/AnasHXH/TESR-Two-stage-approach-for-Enhancement-and-Super-Resolution-of-Remote-Sensing-Images/blob/main/Res_1_1_1.png" width="600" height="400"/>
-<img src="https://github.com/AnasHXH/TESR-Two-stage-approach-for-Enhancement-and-Super-Resolution-of-Remote-Sensing-Images/blob/main/Table_res_3.png" width="600" height="400"/>
+<img src="https://github.com/AnasHXH/TESR-Two-stage-approach-for-Enhancement-and-Super-Resolution-of-Remote-Sensing-Images/blob/main/Res_1_1_1.png" width="700" height="300"/>
+<img src="https://github.com/AnasHXH/TESR-Two-stage-approach-for-Enhancement-and-Super-Resolution-of-Remote-Sensing-Images/blob/main/Table_res_3.3.png" width="400" height="200"/>
 <img src="https://github.com/AnasHXH/TESR-Two-stage-approach-for-Enhancement-and-Super-Resolution-of-Remote-Sensing-Images/blob/main/res_2.png" width="600" height="400"/>
