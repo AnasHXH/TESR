@@ -8,4 +8,6 @@ link of [UC Merced Land Use Dataset](http://weegee.vision.ucmerced.edu/datasets/
 # TESR Algorithm
 <img src="https://github.com/AnasHXH/TESR-Two-stage-approach-for-Enhancement-and-Super-Resolution-of-Remote-Sensing-Images/blob/main/Algorithm.png" width="600" height="400"/>
 # Result
-
+<img src="https://github.com/AnasHXH/TESR-Two-stage-approach-for-Enhancement-and-Super-Resolution-of-Remote-Sensing-Images/blob/main/Res_1_1_1.png" width="600" height="400"/>
+<img src="https://github.com/AnasHXH/TESR-Two-stage-approach-for-Enhancement-and-Super-Resolution-of-Remote-Sensing-Images/blob/main/Table_res_3.png" width="600" height="400"/>
+<img src="https://github.com/AnasHXH/TESR-Two-stage-approach-for-Enhancement-and-Super-Resolution-of-Remote-Sensing-Images/blob/main/res_2.png" width="600" height="400"/>
