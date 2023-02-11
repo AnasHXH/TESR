@@ -6,3 +6,6 @@ we design a new architecture called TESR (Two-stage approach for Enhancement and
 # Remote Sensing Dataset
 link of [UC Merced Land Use Dataset](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
 # TESR Algorithm
+<img src="https://github.com/AnasHXH/TESR-Two-stage-approach-for-Enhancement-and-Super-Resolution-of-Remote-Sensing-Images/blob/main/Algorithm.png" width="600" height="400"/>
+# Result
+
